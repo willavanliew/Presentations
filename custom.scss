@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+// colors
+$body-bg: #88D079!default; 
+$body-color:#334F2E!default;
+$link-color: #7E9F77 !default;
+$selection-bg: #357629!default;
+$code-block-bg: #289314!default;
+$code-color: #69E052!default;
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #278315!default;
+
+// size
+
+$presentation-font-size-root: 32px;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
