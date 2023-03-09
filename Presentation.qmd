@@ -5,6 +5,7 @@ execute:
   echo: false
 format: 
   revealjs: 
+    multiplex: true
     theme: moon
     transition: convex
     background-transition: fade
@@ -12,7 +13,8 @@ format:
     scrollable: true
     slide-number: c/t
     code-fold: true
-    embed-resources: true
+    #embed-resources: true
+    incremental: true
 ---
 
 ## My Path to Data Science 
@@ -45,7 +47,7 @@ Right column
 <iframe 
   width="800" 
   height="500" 
-  src="./img/ava_map.html">
+  src="/img/fig.html">
 </iframe>
 :::
 ::: {.column width="20%"}
@@ -58,11 +60,7 @@ Write a little bit here about what i did and why i did it
 ## Data Visualization and French Wines {.smaller}
 :::: {.columns}
 ::: {.column width="80%"}
-<iframe 
-  width="1000" 
-  height="500" 
-  src="https://willavanliew.shinyapps.io/WorldWideWines/?_ga=2.92782815.370449057.1678321420-1551941479.1676337056">
-</iframe>
+![](./img/frenchwinemap.png)
 :::
 ::: {.column width="20%"}
 Write a little bit here about what i did and why i did it
@@ -75,10 +73,9 @@ Write a little bit here about what i did and why i did it
 <iframe 
   width="1000" 
   height="1000" 
-  src="./img/bannedBooksTable.html">
+  src="/img/bannedBooksTable.html">
 </iframe>
 :::
-
 ::: {.column width="20%"}
 
 Link to post 
