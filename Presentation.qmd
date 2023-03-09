@@ -1,21 +1,18 @@
 ---
 title: "Data Science Presentation"
 author: "Willa Van Liew"
-format:
-  revealjs:
-    multiplex: true
-    preview-links: true
+execute:
+  echo: false
+format: 
+  revealjs: 
     theme: moon
-    scrollable: true
-    #logo
-    #footer
-    chalkboard: true
-    html-math-method: katex
-    incremental: true
-    slider-number: c/t
     transition: convex
+    background-transition: fade
+    preview-links: true
+    scrollable: true
+    slide-number: c/t
     code-fold: true
-    code-tools: true
+    embed-resources: true
 ---
 
 ## My Path to Data Science 
