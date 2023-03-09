@@ -17,7 +17,7 @@ format:
     incremental: true
 ---
 
-## My Path to Data Science 
+## My Path to Data Science {.smaller}
 
 - I graduated from Willamette in 2020 with a degree in Economics. 
 - Always loved to code and during the early stages of the pandemic began taking online classes 
