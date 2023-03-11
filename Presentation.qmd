@@ -29,17 +29,8 @@ format:
 # My Data Science Projects 
 
 ## Mount Hood Meadows Analysis {.smaller}
-:::: {.columns}
 
-::: {.column width="80%"}
 ![](./img/EngineeringFinalPresentation.png)
-:::
-
-::: {.column width="20%"}
-Right column
-:::
-
-::::
 
 ## Interactive Graphics and Avalanche Analysis {.smaller}
 :::: {.columns}
@@ -51,7 +42,7 @@ Right column
 </iframe>
 :::
 ::: {.column width="20%"}
-link to post
+<a href="https://willavanliew.github.io/Portfolio/posts/AvalanceAnalysis/">Avalanche Analysis Post</a>
 Write a little bit here about what i did and why i did it
 :::
 :::
@@ -64,6 +55,7 @@ Write a little bit here about what i did and why i did it
 :::
 ::: {.column width="20%"}
 Write a little bit here about what i did and why i did it
+<a href="https://willavanliew.shinyapps.io/WorldWideWines/">Shiny Site</a>
 :::
 :::
 ## Tables and Banned Books in schools {.smaller}
@@ -78,7 +70,7 @@ Write a little bit here about what i did and why i did it
 :::
 ::: {.column width="20%"}
 
-Link to post 
+<a href="https://willavanliew.github.io/Portfolio/posts/BannedBooksAnalysis%20/BannedBooks.html">Banned Books Analysis Post</a>
 
 Write a little bit here about what i did and why i did it 
 Write more about what I am working on with banned books in prisons 
