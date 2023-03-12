@@ -43,7 +43,6 @@ format:
 :::
 ::: {.column width="20%"}
 <a href="https://willavanliew.github.io/Portfolio/posts/AvalanceAnalysis/">Avalanche Analysis Post</a>
-Write a little bit here about what i did and why i did it
 :::
 :::
 
@@ -54,8 +53,7 @@ Write a little bit here about what i did and why i did it
 ![](./img/frenchwinemap.png)
 :::
 ::: {.column width="20%"}
-Write a little bit here about what i did and why i did it
-<a href="https://willavanliew.shinyapps.io/WorldWideWines/">Shiny Site</a>
+<a href="https://willavanliew.shinyapps.io/WorldWideWines/">Full Shiny Project</a>
 :::
 :::
 ## Tables and Banned Books in schools {.smaller}
@@ -69,13 +67,8 @@ Write a little bit here about what i did and why i did it
 </iframe>
 :::
 ::: {.column width="20%"}
-
 <a href="https://willavanliew.github.io/Portfolio/posts/BannedBooksAnalysis%20/BannedBooks.html">Banned Books Analysis Post</a>
-
-Write a little bit here about what i did and why i did it 
-Write more about what I am working on with banned books in prisons 
 :::
-
 ::::
 
 
