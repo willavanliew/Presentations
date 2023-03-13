@@ -18,13 +18,12 @@ format:
 ---
 
 ## My Path to Data Science {.smaller}
-
-- I graduated from Willamette in 2020 with a degree in Economics. 
-- Always loved to code and during the early stages of the pandemic began taking online classes 
-- Fell in love with data and wanted to explore what I could do with it 
-- Worked for a year at a small cosmetic start up as a production assistant. My job encompassed many other roles including data analysis of the products cosmetic ecosystem and our supply chain data systems. 
-- Began the data science masters program in the summer of 2022. Will be graduating in August of 2023. 
-- Within the program I have used my own hobbys and passions to seek out interesting data sets and analyze and visualize them in ways that my non data peers can understand and enjoy. 
+- Graduated from Willamette in 2020 with a degree in Economics
+- Always loved to code and during the early stages of the pandemic began taking online classes
+- Fell in love with data and wanted to explore what I could do with it
+- Worked for a year at a small cosmetics start up as a production assistant. My job encompassed many other roles including data analysis of our products within the cosmetics ecosystem and our supply chain data systems
+- Began the Masters of Data Science program in the summer of 2022; will graduate in August of 2023
+- Within the program I have used my own hobbies and passions to seek out interesting data sets to analyze and visualize in ways that my non-data peers can understand and enjoy
 
 # My Data Science Projects 
 
